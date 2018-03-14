@@ -1,4 +1,4 @@
-# improvement-protocol
+# Progressbar Improvement Proposals (short pip)
 what we can improve in space?
 
 [Feel free open issue ](https://github.com/Progressbar/Progressbar-Improvement-Proposal/issues/new)
