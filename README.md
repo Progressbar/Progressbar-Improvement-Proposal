@@ -7,5 +7,7 @@ what we can improve in space?
 * how it will impact the space
 * how can others join you in your effort
 
+In the end, you will train your experience for future life opportunities. 
+Now, you can try out w/o shame, we are newcomers too.
 
 inspired by https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals
