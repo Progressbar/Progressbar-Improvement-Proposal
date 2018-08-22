@@ -1,6 +1,8 @@
 # Progressbar Improvement Proposals (short pip)
 What can we improve in the space?
 
+[Proposals](https://github.com/Progressbar/Progressbar-Improvement-Proposal/issues)
+
 [Feel free open issue ](https://github.com/Progressbar/Progressbar-Improvement-Proposal/issues/new)
 * Describe your improvement 
 * What would you want to help with
